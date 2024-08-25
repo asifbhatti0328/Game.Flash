@@ -56,10 +56,6 @@ background-color: rgba(128, 0, 128, 0.447);
 }
 
 
-@media (min-width : 375px) and (max-width : 375px) {
-    body{
-        width: 100%;
-    }
-}
+
 
 
