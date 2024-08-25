@@ -48,7 +48,7 @@ background-color: rgba(128, 0, 128, 0.447);
 }
 
 
-@media (max-width : 375px) {
+@media (max-width : 375px) or (min-width : 375px){
     .btn{
         width: 100px;
         height: 100px;
